@@ -1,3 +1,16 @@
+"""
+Obstacle avoidance for a mobile robot using a Braitenberg-like algorithm.
+
+Authors: 
+M.A. Rojas Andrade
+L. R. García Vázquez
+E. Y. Aguilera Camacho
+M.A. Escobar Carmona
+A.S. Torres Villegas
+J. P. Ramírez Paredes <jpi.ramirez@ugto.mx>
+University of Guanajuato (2023)
+"""
+
 import time
 import math as m
 

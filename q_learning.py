@@ -1,3 +1,17 @@
+"""
+Obstacle avoidance for a mobile robot using Q-learning
+This RL implementation uses CoppeliaSim with the ZeroMQ API.
+
+Authors: 
+M.A. Rojas Andrade
+L. R. García Vázquez
+E. Y. Aguilera Camacho
+M.A. Escobar Carmona
+A.S. Torres Villegas
+J. P. Ramírez Paredes <jpi.ramirez@ugto.mx>
+University of Guanajuato (2023)
+"""
+
 from P3AT4A16O import *
 
 env = Pioneer()
